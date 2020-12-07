@@ -19,3 +19,7 @@ Richards, Blake A. “Moving beyond Reward Prediction Errors.” Nature Machine 
 **Representation Learning**
 
 Le-Khac, Phuc H., Graham Healy, and Alan F. Smeaton. “Contrastive Representation Learning: A Framework and Review.” IEEE Access 8 (2020): 193907–34. https://doi.org/10.1109/ACCESS.2020.3031549.
+
+**Multi-Agent RL**
+
+Xie, Annie, Dylan P. Losey, Ryan Tolsma, Chelsea Finn, and Dorsa Sadigh. “Learning Latent Representations to Influence Multi-Agent Interaction.” ArXiv:2011.06619 [Cs], November 12, 2020. http://arxiv.org/abs/2011.06619.
